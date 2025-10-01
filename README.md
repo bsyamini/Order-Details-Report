@@ -44,6 +44,9 @@ The report helps with:
 5. What is the average order size per customer?
 
 ---
+## Screenshot
+-<img width="1318" height="461" alt="Screenshot (69)" src="https://github.com/user-attachments/assets/c0eb9ad9-e05d-4885-bbeb-635b51e768a0" />
+
 
 ## Summary
 - Provides structured data for **sales and order analytics**.  
