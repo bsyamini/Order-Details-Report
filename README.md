@@ -9,6 +9,10 @@ It can be used to study sales trends, customer behavior, and product performance
 
 ---
 
+## Dataset Used
+- <a href = "https://github.com/bsyamini/Order-Details-Report/blob/main/Order_Details_Report.xlsx "> Dataset </a>
+--
+
 ## File Contents
 - Order_Details_Report.xlsx
   - order_details_id 
@@ -44,8 +48,4 @@ The report helps with:
 - Provides structured data for **sales and order analytics**.  
 - Can be easily connected to **Power BI, SQL, or Python**.  
 - Helps businesses make **data-driven decisions**.  
-
----
-
-## Dataset Used
 
