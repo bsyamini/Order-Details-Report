@@ -10,7 +10,7 @@ It can be used to study sales trends, customer behavior, and product performance
 ---
 
 ## File Contents
-- **Order_Details_Report.xlsx**  
+- Order_Details_Report.xlsx
   - order_details_id 
   - order_id
   - order_date
