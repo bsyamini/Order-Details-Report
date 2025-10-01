@@ -2,7 +2,7 @@
 ## Project-Objective
 Excel-based Order Details Report for analyzing sales trends, customer orders, and product performance. Contains structured order data (IDs, dates, items, and quantities) that can be used in Excel, Power BI, or SQL for insights.
 
-# 📊 Order Details Report
+# Order Details Report
 
 This repository contains the **Order_Details_Report.xlsx**, an Excel file designed for analyzing order-related data.  
 It can be used to study sales trends, customer behavior, and product performance.
