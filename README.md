@@ -11,6 +11,8 @@ It can be used to study sales trends, customer behavior, and product performance
 
 ## Dataset Used
 - <a href = "https://github.com/bsyamini/Order-Details-Report/blob/main/Order_Details_Report.xlsx "> Dataset </a>
+## Dataset Dashboard
+- <a href = "https://github.com/bsyamini/Order-Details-Report/blob/main/Screenshot%20(69).png"> Screenshot</a>
 
 ## File Contents
 - Order_Details_Report.xlsx
